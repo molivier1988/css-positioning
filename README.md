@@ -4,13 +4,7 @@
 
 ## Key Words
 
-- positioning
-- static (default)
-- absolute
-- relative
-- fixed
-- sticky
-- z-index
+```positioning``` | ```static (default)``` | ```absolute``` | ```relative``` | ```fixed``` | ```sticky``` | ```z-index```
 
 ## Position
 
